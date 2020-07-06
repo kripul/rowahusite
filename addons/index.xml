@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Addons on Rowahu</title>
-    <link>/addons/</link>
+    <link>https://wikihadits.com/addons/</link>
     <description>Rowahu (Addons)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2020 02:07:31 +0600</lastBuildDate>
     
-    <atom:link href="/addons/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wikihadits.com/addons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Author</title>
-      <link>/author/</link>
+      <link>https://wikihadits.com/author/</link>
       <pubDate>Mon, 06 Apr 2020 02:07:31 +0600</pubDate>
       
-      <guid>/author/</guid>
+      <guid>https://wikihadits.com/author/</guid>
       <description>&lt;p&gt;I am John Doe. And I can confirm that this is the best theme ever!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Admin Panel</title>
-      <link>/admin/</link>
+      <link>https://wikihadits.com/admin/</link>
       <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
       
-      <guid>/admin/</guid>
+      <guid>https://wikihadits.com/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All Sections</title>
-      <link>/sections/</link>
+      <link>https://wikihadits.com/sections/</link>
       <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
       
-      <guid>/sections/</guid>
+      <guid>https://wikihadits.com/sections/</guid>
       <description></description>
     </item>
     
